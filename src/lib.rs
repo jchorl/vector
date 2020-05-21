@@ -1,3 +1,4 @@
+#![recursion_limit = "256"]
 #![allow(clippy::approx_constant)]
 #![allow(clippy::block_in_if_condition_stmt)]
 #![allow(clippy::cognitive_complexity)]
